@@ -538,7 +538,7 @@ justify-content: flex-start;  }
     height: 3rem; overflow: hidden; flex-shrink: 0; display: flex; flex-direction: row;
       padding: var(--padding-xs) var(--padding-5xl); box-sizing: border-box;
     align-items: center; justify-content: center; gap: var(--gap-3xs); text-align: left;
-    font-size: var(--h4-bold-size); font-family: var(--font-gilroy-semibold);}
+    font-size: var(--h4-bold-size); font-family: var(--font-gilroy-semibold); cursor: pointer;}
 
   .revolutionizing-link-optimizat-parent {position: absolute; top: 6.81rem; left: calc(50% - 403px);
     display: flex;flex-direction: column; align-items: center; justify-content: flex-start;
